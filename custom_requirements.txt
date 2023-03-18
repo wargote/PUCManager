@@ -1,0 +1,41 @@
+
+REQUERIMIENTOS CLIENTE:
+
+Para crear un software que cumpla con los requerimientos mencionados, deberás considerar los siguientes aspectos:
+
+Inventario: el software debe ser capaz de gestionar un inventario de productos.
+Esto incluye la capacidad de agregar nuevos productos,
+actualizar la información del producto (precio, cantidad, descripción, etc.) y eliminar productos.
+
+Facturación de proveedores: el software debe permitir la generación de facturas para los proveedores.
+Esto incluye la capacidad de agregar nuevos proveedores,
+seleccionar los productos que se compraron de cada proveedor,
+registrar el costo de los productos y generar la factura correspondiente.
+
+Facturación de clientes: el software también debe permitir la generación de facturas para los clientes.
+Esto incluye la capacidad de agregar nuevos clientes,
+seleccionar los productos que se vendieron a cada cliente,
+registrar el precio de venta de los productos y generar la factura correspondiente.
+
+Contabilidad con el PUC: el software debe incluir un sistema de contabilidad que permita registrar
+todas las transacciones financieras de la empresa.
+Esto incluye la capacidad de registrar los ingresos, 
+los gastos y los impuestos, y de generar informes financieros.
+
+Selección de los productos más vendidos con gráficos: el software debe ser capaz de generar informes
+sobre los productos más vendidos. 
+Esto incluye la capacidad de generar gráficos que muestren la cantidad de cada producto vendido
+en un período de tiempo determinado.
+
+Facturación electrónica con la DIAN: el software debe incluir la capacidad de
+generar facturas electrónicas con la DIAN. 
+Esto requiere la implementación de la integración con la API de la DIAN,
+que permitirá al software enviar facturas electrónicas directamente al sistema de la DIAN.
+
+Además de estos requerimientos específicos,
+también deberás considerar otros aspectos importantes,
+como la seguridad de los datos,
+la facilidad de uso del software y la escalabilidad del sistema. 
+También es importante asegurarse de que el software cumpla con 
+los requisitos legales y fiscales aplicables,
+y que esté actualizado y en cumplimiento con las regulaciones vigentes.      
